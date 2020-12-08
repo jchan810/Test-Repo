@@ -2,3 +2,9 @@ h1 {
     color: purple;
     font-size: 60px;
 }
+.one {
+    transform: skew(90deg);
+}
+#two {
+    transform: scale(3);
+}
