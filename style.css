@@ -5,10 +5,8 @@ h1 {
 .one {
     color: aqua;
     font-size: small;
-    transform: skew(90deg);
 }
 #two {
     color: green;
     font-size: small;
-    transform: scale(3);
 }
