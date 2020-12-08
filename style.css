@@ -3,8 +3,10 @@ h1 {
     font-size: 60px;
 }
 .one {
+    color: aqua;
     transform: skew(90deg);
 }
 #two {
+    color: green;
     transform: scale(3);
 }
