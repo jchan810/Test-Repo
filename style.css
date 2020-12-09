@@ -1,12 +1,35 @@
-h1 {
-    color: purple;
-    font-size: 60px;
+/* Navbar */
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
 }
-.one {
-    color: blue;
-    font-size: small;
+.logo {
+    width: 23%;
+    padding: 1%;
+    text-align: center;
 }
-#two {
-    color: red;
-    font-size: small;
+nav {
+    width: 50%;
+    margin-left: auto;
+}
+/* Hero Image */
+.heroImg {
+    height: 600px;
+    padding: 25px;
+}
+.content {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+/* Footer */
+footer {
+    background-color: #373738;
+}
+footer ul {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
